@@ -9,5 +9,6 @@ namespace ForAll
             Console.WriteLine("Hello World!");
             Console.WriteLine("How you doing?");
         }
+        // TESTE
     }
 }
