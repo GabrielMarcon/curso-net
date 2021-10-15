@@ -8,7 +8,8 @@ namespace ForAll
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("How you doing?");
+            string git = "publicado no git";
+            Console.WriteLine(git);
         }
-        // TESTE
     }
 }
